@@ -8,7 +8,7 @@ I'm deeply passionate about all things tech related, especially anything applica
 
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [facetech.tech@gmail.com](mailto:facetech.tech@gmail.com)
-* 🧠  I'm learning new JS/TS Frameworks, Databases, Godot, Rust.
+* 🧠  I'm learning Astro, Databases, Godot, Rust and Pytorch/Deep Learning/Machine Learning
 * ⚡  I'm a wizard in disguise, but shh... it's a secret! I've got a wand and everything, but I'm still trying to master the spell for endless coffee.
 
 ### Skills
