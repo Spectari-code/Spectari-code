@@ -7,7 +7,7 @@ Developer and Tech Enthusiast
 I'm deeply passionate about all things tech related, especially anything application/web-development and game-development. I'm constantly exploring and learning new technologies, seeking to expand my knowledge in these exciting fields. "The only thing that you absolutely have to know is the location of the library" - Albert Einstein
 
 * 🌍  I'm based in South Africa
-* ✉️  You can contact me at [facetech.tech@gmail.com](mailto:visagietheo@gmail.com)
+* ✉️  You can contact me at [visagietheo@gamil.com](mailto:visagietheo@gmail.com)
 * 🧠  I'm learning I'm learning Multiplatform Development, Databases, Godot, Rust and AI/Pytorch/Deep Learning.
 * ⚡  I'm a wizard in disguise, but shh... it's a secret! I've got a wand and everything, but I'm still trying to master the spell for endless coffee.
 
